@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/home"
+        android:enabled="true"
+        android:icon="@drawable/home_icon"
+        android:title="Главная"
+        />
+    <item
+        android:id="@+id/cart"
+        android:enabled="true"
+        android:icon="@drawable/cart_icon"
+        android:title="Корзина"/>
+    <item
+        android:id="@+id/profile"
+        android:enabled="true"
+        android:icon="@drawable/profile_icon"
+        android:title="Профиль">
+    </item>
+</menu>
